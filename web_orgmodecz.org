@@ -1,0 +1,23 @@
+#+TITLE: orgmode cz
+#+AUTHOR: www.michalrada.cz
+#+LANGUAGE: cs
+#+OPTIONS: H:5 toc:nil prop:1 num:nil
+#+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a)
+#+INFOJS_OPT: view:info mouse:underline home:https://www.orgmode.org toc:nil ltoc:t
+* Homepage
+  :LOGBOOK:
+  CLOCK: [2021-08-28 Sat 20:05]--[2021-08-28 Sat 20:06] =>  0:01
+  :END:
+* NEZAHÁJENO OrgMode                                              :rozdělané:
+  :PROPERTIES:
+  :Popis:    Homepage mikrowebu k orgmode v češtině
+  :END:
+* ROZPRACOVANÉ Nástroje a pomůcky                                 :rozdělané:
+
+  :LOGBOOK:
+  CLOCK: [2021-08-28 Sat 19:31]--[2021-08-28 Sat 20:05] =>  0:34
+  :END:
+S OrgMode se dá pracovat v celé řadě situací a nástrojů. Soubory v tomto formátu jsou prosté textové soubory, které jsou snadno čitelné, takže pro základní práci potřebujete jen obyčejný jakýkoliv textový editor. Ale to samozřejmě není ono.
+
+- OrgMode je integrální součástí editoru [[https://www.gnu.org/software/emacs/][emacs]], což je všestranný textový pomocník skoro pro všechno. 
+- Existuje skvělá webová aplikace [[https://organice.200ok.ch][Organice]] což je plnohodnotná náhrada emacsu alespoň co se týče OrgMode a je to skvělý webový editor a procesor pro ORG soubory a projekty.
